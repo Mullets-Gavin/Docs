@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 description: >
   Minimal theme repurposed for project documentation
   <hr/>
-  <a href="start.html">Navigation</a><br/>
+  <a href="navigation.html">Navigation</a><br/>
   <div class="nav">
-  <a href="loader.html">Indentation</a><br/>
+  <a href="indent.html">Indentation</a><br/>
   </div>
   <br/><hr/>
