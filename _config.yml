@@ -1,0 +1,11 @@
+title: Minimal Docs
+show_downloads: false
+theme: jekyll-theme-minimal
+description: >
+  Minimal theme repurposed for project documentation
+  <hr/>
+  <a href="start.html">Navigation</a><br/>
+  <div class="nav">
+  <a href="loader.html">Indentation</a><br/>
+  </div>
+  <br/><hr/>
